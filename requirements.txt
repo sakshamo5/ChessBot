@@ -1,0 +1,5 @@
+flask
+requests
+chess
+python-chess
+gunicorn
