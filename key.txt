@@ -1,4 +1,0 @@
-ChessBot(saksham_05): lip_q9w9l1KiSKyqoFR7BnCq
-
-$env:LICHESS_TOKEN = "lip_q9w9l1KiSKyqoFR7BnCq"
-lip_q9w9l1KiSKyqoFR7BnCq
